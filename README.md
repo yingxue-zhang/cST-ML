@@ -21,6 +21,6 @@ The sample data is located in Dropbox folder, please unzip data.zip and put the 
 Just take traffic speed estimation as an example:
 1. `cd cST-ML/code/`.
 2. Running the codes: `python train.py`. (The parameters are defined in train.py)
-3. The parameters of the trained model will be saved in to cST-ML/code//Meta_VAE_train.
+3. The parameters of the trained model will be saved in to cST-ML/code/Meta_VAE_train.
 
 The training process for taxi inflow estimation is similar.
