@@ -1,6 +1,6 @@
 # cST-ML
-The codes and data of paper "cST-ML: Continuous Spatial-Temporal Meta-Learning for Traffic Dynamics Prediction"
-The code and data are in the Dropbox folder: https://www.dropbox.com/sh/vimufus6jco46dv/AAA5UwYs57fNIuy55hMPb6IRa?dl=0
+The codes and data of paper "cST-ML: Continuous Spatial-Temporal Meta-Learning for Traffic Dynamics Prediction".
+The code and data are in the Dropbox folder: https://www.dropbox.com/sh/vimufus6jco46dv/AAA5UwYs57fNIuy55hMPb6IRa?dl=0.
 The implementation is realized by Pytorch.
 
 
